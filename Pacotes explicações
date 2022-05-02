@@ -1,0 +1,11 @@
+/npm add express = freamwork que ajuda a fazer a tratativa de rotas e requests do http 
+
+
+
+npm add body-parser = faz com que o node entenda as requisições recebendo informações de arquivos json
+e entender url dos parametros enviados atraves de url como se fosse parametros http
+
+npm add mongoose
+
+Crypitar senhas
+npm add bcryptjs
